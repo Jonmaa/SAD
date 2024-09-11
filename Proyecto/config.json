@@ -1,0 +1,10 @@
+{
+  "INPUT_FILE": "datos_Qatar.csv" ,
+  "REVIEWS_VARIABLE" : "Reviews",
+  "NUM_TOPICS" : 3,
+  "CHUNK_SIZE" : 2000,
+  "EPOCHS" : 20,
+  "ITERATIONS" : 400
+}
+
+
